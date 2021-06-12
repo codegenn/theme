@@ -17,25 +17,18 @@
 <link href='https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
 <!-- MAIN STYLE -->
-<link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
-<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="css/main.css" rel="stylesheet" type="text/css">
-<link href="css/style.css" rel="stylesheet" type="text/css">
-<link href="css/responsive.css" rel="stylesheet" type="text/css">
-<link href="css/animate.css" rel="stylesheet" type="text/css">
 
-<!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
-<link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
-
+<?php
+  wp_head();
+?>
 <!-- JavaScripts -->
-<script src="js/modernizr.js"></script>
+<script src="asset/js/modernizr.js"></script>
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.asset/js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
 </head>
