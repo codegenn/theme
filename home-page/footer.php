@@ -38,17 +38,6 @@
   <!-- </div>
 </div> -->
 <!-- Wrap End --> 
-<script src="js/jquery-1.11.3.min.js"></script> 
-<script src="js/wow.min.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
-<script src="js/own-menu.js"></script> 
-<script src="js/owl.carousel.min.js"></script> 
-<script src="js/jquery.cubeportfolio.min.js"></script> 
-<script src="js/counter.js"></script> 
-
-<!-- SLIDER REVOLUTION 4.x SCRIPTS  --> 
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script> 
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
-<script src="js/main.js"></script>
-</body>
+    <?php wp_footer(); ?>
+  </body>
 </html>
