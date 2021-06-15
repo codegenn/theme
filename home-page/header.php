@@ -35,3 +35,19 @@
 </head>
 
 <body>
+ <!-- LOADER ===========================================-->
+    <!-- <div id="loader">
+        <div class="loader">
+            <div class="position-center-center"> <img src=<?php echo get_template_directory_uri() . "/assets/images/logo.png" ?> alt="">
+                <p class="font-merriweather font-italic text-center">Please Wait...</p>
+                <div class="loaderContainer">
+                    <div class="loaderBG"> <span class="loaderCircle"></span> </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- Page Wrap -->
+    <div id="wrap" class="no-padding">
+        <div id="main-wrapper">
+            <?php include 'nav-header.php'; ?>
