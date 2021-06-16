@@ -613,6 +613,18 @@ header nav .ownmenu ul.dropdown .indicator {
   text-align: left !important;
 }
 /*=======================================================
+      PORTOFLIO ITEM
+========================================================*/
+.item-description {
+  width: 80%;
+  padding: 10px 0 0 20px;
+}
+.item-description p {
+  font-style: normal !important;
+  color: #000;
+  font-size: 13px;
+}
+/*=======================================================
       ABOUT US
 ========================================================*/
 .about-us p {
@@ -632,6 +644,9 @@ header nav .ownmenu ul.dropdown .indicator {
 }
 .j-center {
   justify-content: center;
+}
+.space-around {
+  justify-content: space-around;
 }
 /*=======================================================
       SERVICES
@@ -851,6 +866,7 @@ header nav .ownmenu ul.dropdown .indicator {
       PORTFOLIO
 ========================================================*/
 .portfolio {
+  background-color: #f1f5f8;
 }
 .portfolio .hover-port {
   border: 10px solid;
