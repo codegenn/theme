@@ -18,10 +18,12 @@
 
 get_header(); ?>
 
-<?php include 'nav-header.php'; ?>
-<?php include 'services.php'; ?>
-<?php include 'testimonials.php'; ?>
-
+<?php include get_template_directory() . '/sections/intro.php'; ?>
+<?php include get_template_directory() . '/sections/services.php'; ?>
+<?php include get_template_directory() . '/sections/portfolio.php'; ?>
+<?php include get_template_directory() . '/sections/blog-news.php'; ?>
+<?php include get_template_directory() . '/sections/pricing.php'; ?>
+<?php include get_template_directory() . '/sections/clients.php'; ?>
 
 <?php
 /**

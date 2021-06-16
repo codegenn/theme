@@ -11,6 +11,7 @@ function b2w_them_style()
     wp_enqueue_style('animte_css', get_template_directory_uri() . '/assets/css/animate.css');
     wp_enqueue_style('cubeportfolio_css', get_template_directory_uri() . '/assets/css/cubeportfolio.css');
     wp_enqueue_style('settings_css', get_template_directory_uri() . '/assets/rs-plugin/css/settings.css');
+    wp_enqueue_style('custom', get_template_directory_uri() . '/assets/rs-plugin/css/custom.css');
 }
 add_action('wp_enqueue_scripts', 'b2w_them_style');
 
@@ -29,3 +30,23 @@ function b2w_theme_js()
     wp_enqueue_script('revolution_js', get_template_directory_uri() . '/assets/rs-plugin/js/jquery.themepunch.revolution.min.js', array('jquerry'), '', true);
 }
 add_action('wp_enqueue_scripts', 'b2w_theme_js');
+
+function fn_nav_menu() {
+    register_nav_menus(array(
+        'primary-menu' => __('Primary Menu', 'text_domain'),
+        'footer-menu' => __('Footer Menu', 'text_domain'),
+    ));
+}
+
+add_action('init', 'fn_nav_menu');
+
+function add_link_atts($atts) {
+    $atts['class'] = 'ownmenu_li';
+    $atts['id'] = '';
+
+    return $atts;
+}
+
+add_filter('nav_menu_link_attributes', 'add_link_atts');
+
+?>
