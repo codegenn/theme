@@ -631,6 +631,9 @@ header nav .ownmenu ul.dropdown .indicator {
   font-size: 14px;
   margin-bottom: 0px;
 }
+.check-color {
+  color: rgb(47, 121, 32);
+}
 .choose-us .bd {
   border-top: 2px solid rgb(50, 136, 33);
 }
