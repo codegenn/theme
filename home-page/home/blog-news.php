@@ -10,10 +10,10 @@
                     <li><a href="#.">Share</a></li>
                 </ul>
             </li>
-            <li class="col-md-6 animate fadeInRight" data-wow-delay="0.4s"> <img class="img-responsive" <?php echo get_template_directory_uri() . "/assets/images/blog/img-1.jpg" ?> alt=""> </li>
+            <li class="col-md-6 animate fadeInRight" data-wow-delay="0.4s"> <img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/blog/img-1.jpg" ?> alt=""> </li>
         </ul>
         <ul class="row margin-top-50">
-            <li class="col-md-6 animate fadeInLeft" data-wow-delay="0.4s"> <img class="img-responsive" <?php echo get_template_directory_uri() . "/assets/images/blog/img-2.jpg" ?> alt=""> </li>
+            <li class="col-md-6 animate fadeInLeft" data-wow-delay="0.4s"> <img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/blog/img-2.jpg" ?> alt=""> </li>
             <li class="col-md-6 text-right animate fadeInRight" data-wow-delay="0.4s"> <a href="#." class="post-tittle">:: ASPECT RATIO AND LIGHTENING IN PHOTO PRESENTATIONS</a>
                 <p>In this article Shane Bond shares his experience about the furniture design industry, its
                     trends, the history and more importantly the challenges!</p>

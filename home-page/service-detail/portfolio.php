@@ -9,7 +9,7 @@
     <div id="js-grid-awesome-work" class="col-4">
 
         <!-- PORTOFLIO ITEM -->
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "../../assets/images/portfolio/1/img-1.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-1.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -21,7 +21,7 @@
         </div>
 
         <!-- PORTOFLIO ITEM -->
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "../../assets/images/portfolio/1/img-2.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-2.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -33,7 +33,7 @@
         </div>
 
         <!-- PORTOFLIO ITEM -->
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "../../assets/images/portfolio/1/img-3.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-3.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -45,7 +45,7 @@
         </div>
 
         <!-- PORTOFLIO ITEM -->
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "../../assets/images/portfolio/1/img-4.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-4.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -57,7 +57,7 @@
         </div>
 
         <!-- PORTOFLIO ITEM -->
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "../../assets/images/portfolio/1/img-5.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-5.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -69,7 +69,7 @@
         </div>
 
         <!-- PORTOFLIO ITEM -->
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "../../assets/images/portfolio/1/img-7.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-7.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -81,7 +81,7 @@
         </div>
 
         <!-- PORTOFLIO ITEM -->
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "../../assets/images/portfolio/1/img-6.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-6.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -93,7 +93,7 @@
         </div>
 
         <!-- PORTOFLIO ITEM -->
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "../../assets/images/portfolio/1/img-8.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-8.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
