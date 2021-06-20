@@ -14,7 +14,7 @@
                             <li class="col-md-4"> 35 Elm St<br>
                                 Rugaong, 12569<br>
                                 Dublin </li>
-                            <li class="col-md-4"> P: 123 5698 745- 56<br>
+                            <li class="col-md-8"> P: 123 5698 745- 56 7892<br>
                                 E: hello@kora.ie<br>
                                 sales@kora.ie </li>
                         </ul>
