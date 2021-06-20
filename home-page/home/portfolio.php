@@ -3,7 +3,7 @@
         <h2 class="simple-tittle margin-bottom-50">ARTWORK</h2>
     </div>
     <div id="js-grid-awesome-work" class="col-4">
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-1.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-3.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-5.jpg" ?> alt="">
+        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-7.jpg" ?> alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
