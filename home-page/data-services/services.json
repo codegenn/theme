@@ -1,38 +1,38 @@
-{
-  "1": {
+[
+  {
     "image": "/data-services/images/img-2.jpg",
     "title": "IMAGE ENCHANCEMENT",
     "description": "Perfect for real estate photo editing so you can present your listing with top-notch, retouched professional - looking photos",
     "price": "US$1.60"
   },
-  "24": {
+  {
     "image": "/data-services/images/img-2.jpg",
     "title": "IMAGE ENCHANCEMENT",
     "description": "Perfect for real estate photo editing so you can present your listing with top-notch, retouched professional - looking photos",
     "price": "US$1.60"
   },
-  "25": {
+  {
     "image": "/data-services/images/img-2.jpg",
     "title": "IMAGE ENCHANCEMENT",
     "description": "Perfect for real estate photo editing so you can present your listing with top-notch, retouched professional - looking photos",
     "price": "US$1.60"
   },
-  "23": {
+  {
     "image": "/data-services/images/img-2.jpg",
     "title": "IMAGE ENCHANCEMENT",
     "description": "Perfect for real estate photo editing so you can present your listing with top-notch, retouched professional - looking photos",
     "price": "US$1.60"
   },
-  "22": {
+  {
     "image": "/data-services/images/img-2.jpg",
     "title": "IMAGE ENCHANCEMENT",
     "description": "Perfect for real estate photo editing so you can present your listing with top-notch, retouched professional - looking photos",
     "price": "US$1.60"
   },
-  "21": {
+  {
     "image": "/data-services/images/img-2.jpg",
     "title": "IMAGE ENCHANCEMENT",
     "description": "Perfect for real estate photo editing so you can present your listing with top-notch, retouched professional - looking photos",
     "price": "US$1.60"
   }
-}
+]
