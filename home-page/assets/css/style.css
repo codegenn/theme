@@ -237,7 +237,7 @@ hr {
 .tittle-block p {
   font-family: "Merriweather", serif;
   font-size: 16px;
-  font-style: italic;
+  /* font-style: italic; */
   color: #292f33;
 }
 .simple-tittle {
@@ -257,6 +257,9 @@ hr {
 }
 .parallax {
   background-size: cover !important;
+}
+.check-color {
+  color: rgb(47, 121, 32) !important;
 }
 /*=======================================================
       TOP BAR
@@ -570,7 +573,7 @@ header nav .ownmenu ul.dropdown .indicator {
 }
 .intro-in p {
   font-size: 20px;
-  line-height: 40px;
+  /* line-height: 40px; */
   font-style: italic;
   color: #292f33;
   font-weight: 100;
@@ -609,6 +612,9 @@ header nav .ownmenu ul.dropdown .indicator {
   font-style: normal !important;
   color: #000;
 }
+.p-normal p {
+  font-style: normal !important;
+}
 .about-us ul {
   margin-left: 40px;
 }
@@ -631,9 +637,6 @@ header nav .ownmenu ul.dropdown .indicator {
   font-size: 14px;
   margin-bottom: 0px;
 }
-.check-color {
-  color: rgb(47, 121, 32);
-}
 .choose-us .bd {
   border-top: 2px solid rgb(50, 136, 33);
 }
@@ -654,7 +657,7 @@ header nav .ownmenu ul.dropdown .indicator {
 ========================================================*/
 .about-us p {
   font-style: normal !important;
-  color: #000;
+  color: #333333;
 }
 .about-us ul {
   margin-left: 40px;
@@ -669,6 +672,9 @@ header nav .ownmenu ul.dropdown .indicator {
 }
 .j-center {
   justify-content: center;
+}
+.vision li {
+  color: #333333 !important;
 }
 /*=======================================================
       SERVICES

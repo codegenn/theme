@@ -2,11 +2,7 @@
   <div class="container">
     <ul class="social-link margin-top-0 margin-bottom-80 text-center animate fadeInUp" data-wow-delay="0.4s">
       <li><a href="#.">Facebook</a></li>
-      <li><a href="#.">Google+</a></li>
-      <li><a href="#.">Twitter</a></li>
       <li><a href="#.">Behance</a></li>
-      <li><a href="#.">Dribbble</a></li>
-      <li><a href="#.">Pinterest</a></li>
       <li><a href="#.">Instagram</a></li>
     </ul>
     <div class="row">

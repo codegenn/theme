@@ -8,6 +8,7 @@
             <?php include get_template_directory() . '/home/portfolio.php'; ?>
             <?php include get_template_directory() . '/home/blog-news.php'; ?>
             <?php include get_template_directory() . '/home/pricing.php'; ?>
+            <?php include get_template_directory() . '/home/testimonials.php'; ?>
             <?php include get_template_directory() . '/home/clients.php'; ?>
         </div>
     </div>
