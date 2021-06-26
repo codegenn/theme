@@ -57,7 +57,6 @@ add_filter('nav_menu_link_attributes', 'add_link_atts');
 function service_item() {
     $url = get_template_directory_uri() . "/data-services/services.json";
     $string = file_get_contents($url);
-    echo '<div class="my_class">'. $string .'</div>';
     if ($string === false) {
         echo '<div class="my_class"> fasle 1</div>';
     }
@@ -67,16 +66,18 @@ function service_item() {
     }
     foreach ($json_a as $item) {
         echo '
-            <div class="cbp-item photo pack">
-                <img src=' . get_template_directory_uri() . $item['image'] . ' alt="Image ' . $item['title'] . '">
-                <div class="item-description">
-                    <div class="d-flex flex-column">
-                        <p><strong>' . $item['title']       . '</strong></p>
-                        <p>'         . $item['description'] . '</p>
-                        <p><strong>' . $item['price']       . '</strong></p>
+            <a href='. $item["url"] .'>
+                <div class="cbp-item photo pack" target="_blank">
+                    <img src=' . $item['image'] . ' alt="Image ' . $item['title'] . '">
+                    <div class="item-description">
+                        <div class="d-flex flex-column">
+                            <p><strong>' . $item['title']       . '</strong></p>
+                            <p>'         . $item['description'] . '</p>
+                            <p><strong>' . $item['price']       . '</strong></p>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </a>
         ';
     }
 }

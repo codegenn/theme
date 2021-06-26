@@ -54,7 +54,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-6 no-padding animate fadeInRight" data-wow-delay="0.4s"> <img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/services-img-1.jpg" ?> alt=""> </div>
+            </div>
+            <div class="col-md-6 no-padding animate fadeInRight" data-wow-delay="0.4s">
+                <img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/services-img-1.jpg" ?> alt=""> 
             </div>
         </div>
 </section>
