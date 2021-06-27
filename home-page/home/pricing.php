@@ -5,70 +5,37 @@
             <div class="col-md-4 animate fadeInUp" data-wow-delay="0.4s">
                 <div class="price-in">
                     <div class="price-head">
-                        <h6>:: BASIC ::</h6>
-                        <h3>$49</h3>
+                        <h6>:: PHOTO EDITING ::</h6>
+                        <h3>$0.7</h3>
                     </div>
-                    <ul>
-                        <li>
-                            <p>Identity Design</p>
-                        </li>
-                        <li>
-                            <p>Complete Branding</p>
-                        </li>
-                        <li>
-                            <p>Optional Photoshoot</p>
-                        </li>
-                        <li>
-                            <p>Printed Business Cards</p>
-                        </li>
-                    </ul>
-                    <a href="#." class="btn"> Confirm Order</a>
+                    <p>
+                        Perfect for real estate photo editing so you can present your 
+                        listing with top-notch, retouched professional-looking photos.
+                    </p>
                 </div>
             </div>
             <div class="col-md-4 animate fadeInUp" data-wow-delay="0.6s">
                 <div class="price-in">
                     <div class="price-head">
-                        <h6>:: ADVANCE ::</h6>
-                        <h3>$89</h3>
+                        <h6>:: VIRUAL STAGING ::</h6>
+                        <h3>$15</h3>
                     </div>
-                    <ul>
-                        <li>
-                            <p>Identity Design</p>
-                        </li>
-                        <li>
-                            <p>Complete Branding</p>
-                        </li>
-                        <li>
-                            <p>Optional Photoshoot</p>
-                        </li>
-                        <li>
-                            <p>Printed Business Cards</p>
-                        </li>
-                    </ul>
-                    <a href="#." class="btn"> Confirm Order</a>
+                    <p>
+                        Our team can add furniture to real estate 
+                        photography to show potential buyers just how versatile the space is.
+                    </p>
                 </div>
             </div>
             <div class="col-md-4 animate fadeInUp" data-wow-delay="0.8s">
                 <div class="price-in">
                     <div class="price-head">
-                        <h6>:: PROFESSIONAL ::</h6>
-                        <h3>$199</h3>
+                        <h6>:: FLOOR PLAN ::</h6>
+                        <h3>$12</h3>
                     </div>
-                    <ul>
-                        <li>
-                            <p>Identity Design</p>
-                        </li>
-                        <li>
-                            <p>Complete Branding</p>
-                        </li>
-                        <li>
-                            <p>Optional Photoshoot</p>
-                        </li>
-                        <li>
-                            <p>Printed Business Cards</p>
-                        </li>
-                    </ul>
-                    <a href="#." class="btn"> Confirm Order</a>
+                    <p>
+                        Clearly showcase your listing to 
+                        potential buyers with an online floorplan available in a range of 2D and 3D options.
+                    </p>
                 </div>
             </div>
         </div>
