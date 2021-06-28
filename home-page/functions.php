@@ -19,30 +19,30 @@ add_action('wp_enqueue_scripts', 'b2w_them_style');
 function add_js()
 {
     $theme_url = get_template_directory_uri();
-    ?>
-        <script src=<?php echo $theme_url . '/assets/js/jquery-1.11.3.min.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/js/bootstrap.min.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/js/counter.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/js/jquery.cubeportfolio.min.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/js/main.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/js/modernizr.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/js/owl.carousel.min.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/js/wow.min.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/rs-plugin/js/jquery.themepunch.tools.min.js' ?>></script>
-        <script src=<?php echo $theme_url . '/assets/rs-plugin/js/jquery.themepunch.revolution.min.js' ?>></script>
-    <?php
+?>
+    <script src=<?php echo $theme_url . '/assets/js/jquery-1.11.3.min.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/js/bootstrap.min.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/js/counter.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/js/jquery.cubeportfolio.min.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/js/main.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/js/modernizr.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/js/owl.carousel.min.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/js/wow.min.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/rs-plugin/js/jquery.themepunch.tools.min.js' ?>></script>
+    <script src=<?php echo $theme_url . '/assets/rs-plugin/js/jquery.themepunch.revolution.min.js' ?>></script>
+<?php
 }
 add_action('wp_footer', 'add_js');
 
-function fn_nav_menu()
-{
-    register_nav_menus(array(
-        'primary-menu' => __('Primary Menu', 'text_domain'),
-        'footer-menu' => __('Footer Menu', 'text_domain'),
-    ));
-}
+// function fn_nav_menu()
+// {
+//     register_nav_menus(array(
+//         'primary-menu' => __('Primary Menu', 'text_domain'),
+//         'footer-menu' => __('Footer Menu', 'text_domain'),
+//     ));
+// }
 
-add_action('init', 'fn_nav_menu');
+// add_action('init', 'fn_nav_menu');
 
 function add_link_atts($atts)
 {
@@ -54,7 +54,8 @@ function add_link_atts($atts)
 
 add_filter('nav_menu_link_attributes', 'add_link_atts');
 
-function service_item() {
+function service_item()
+{
     $url = get_template_directory_uri() . "/data-services/services.json";
     $string = file_get_contents($url);
     if ($string === false) {
@@ -66,7 +67,7 @@ function service_item() {
     }
     foreach ($json_a as $item) {
         echo '
-            <a href='. $item["url"] .'>
+            <a href=' . $item["url"] . '>
                 <div class="cbp-item photo pack" target="_blank">
                     <img src=' . $item['image'] . ' alt="Image ' . $item['title'] . '">
                     <div class="item-description">
