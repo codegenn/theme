@@ -3,7 +3,7 @@
         <div class="row">
             <div class=col-12>
                 <h2><strong>CONTACT US</strong></h2>
-                <h1 class="font-bold">Kora Inc.</h1>
+                <h1 class="font-bold">Vina Retoucher</h1>
                 <p>Arkitube has a goal of hand roasting the best coffee possible. They view
                     specialty coffee as an art.The company was founded by Makriv Ramev.</p>
             </div>
@@ -12,14 +12,15 @@
                 <div class="contact-left" style="padding-left: 0;">
                     <h3 class="font-bold">Registered Addresses</h3>
                     <div class="contact-info animate fadeInUp" data-wow-delay="0.4s">
-                        <h6 class="margin-top-30 margin-bottom-20 font-bold">DUBLIN</h6>
+                        <h6 class="margin-top-30 margin-bottom-20 font-bold">Vina Retoucher</h6>
                         <ul class="row font-roboto">
-                            <li class="col-md-4"> 35 Elm St<br>
-                                Rugaong, 12569<br>
-                                Dublin </li>
-                            <li class="col-md-8"> P: 123 5698 745- 56 7892<br>
-                                E: hello@kora.ie<br>
-                                sales@kora.ie </li>
+                            <li class="col-md-4">
+                                Ha Noi, Viet Nam<br>
+                             </li>
+                            <li class="col-md-8"> 
+                                P: +84-973-402-665<br>
+                                E: info@vinaretoucher.com<br>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -28,8 +29,8 @@
                 <div class="write-some margin-top-50 animate fadeInUp" data-wow-delay="0.4s">
                     <h3 class="font-bold">Write to us!</h3>
                     <div class="contact-right padding-top-30 ">
-                        <div id="contact_message" class="success-msg"> <i class="fa fa-paper-plane-o"></i>Thank You. Your
-                            Message has been Submitted</div>
+                        <div id="contact_message" class="success-msg"> <i class="fa fa-paper-plane-o"></i>
+                        Thank You. Your Message has been Submitted</div>
                         <form role="form" id="contact_form" class="contact-form" method="post" onSubmit="return false">
                             <ul class="row">
                                 <li class="col-sm-6">

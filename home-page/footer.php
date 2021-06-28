@@ -7,18 +7,17 @@
     </ul>
     <div class="row">
       <div class="col-sm-4 animate fadeInLeft" data-wow-delay="0.4s">
-        <h6>KORA STUDIO</h6>
-        <p>35 Elm St<br>
-          Rugaong, 12569<br>
-          Dublin</p>
+        <h6>Vina Retoucher</h6>
+        <p>Ha Noi, Viet Nam</p>
         <a href="#." class="btn">Locate on map</a>
       </div>
-      <div class="col-sm-4 margin-top-30 text-center animate fadeInUp" data-wow-delay="0.4s"> <img src=<?php echo get_template_directory_uri() . "/assets/images/footer-logo.png" ?> alt=""> </div>
+      <div class="col-sm-4 margin-top-30 text-center animate fadeInUp" data-wow-delay="0.4s"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2019/08/logo-22.png" alt=""> </div>
       <div class="col-sm-4 text-right animate fadeInRight" data-wow-delay="0.4s">
         <h6>Contact Info</h6>
-        <p>P: 123 4569 789- 95<br>
-          E: hello@kora.com<br>
-          sales@kora.com</p>
+        <p>
+          P: +84-973-402-665<br>
+          E: info@vinaretoucher.com
+        </p>
         <a href="#." class="btn">Write to Us</a>
       </div>
     </div>

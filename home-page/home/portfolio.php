@@ -3,7 +3,7 @@
         <h2 class="simple-tittle margin-bottom-50">ARTWORK</h2>
     </div>
     <div id="js-grid-awesome-work" class="col-4">
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-3.jpg" ?> alt="">
+        <div class="cbp-item"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2016/11/bg-pic.jpg" alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -13,7 +13,7 @@
                 </div>
             </div>
         </div>
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-2.jpg" ?> alt="">
+        <div class="cbp-item"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2016/11/pexels-photo-165637.jpg" alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -23,7 +23,8 @@
                 </div>
             </div>
         </div>
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-3.jpg" ?> alt="">
+        <div class="cbp-item"> 
+            <img src="https://www.vinaretoucher.com/wp-content/uploads/2018/01/dan-gold-220226.jpg" alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -33,7 +34,7 @@
                 </div>
             </div>
         </div>
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-4.jpg" ?> alt="">
+        <div class="cbp-item"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2018/10/home11.png" alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -43,7 +44,7 @@
                 </div>
             </div>
         </div>
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-7.jpg" ?> alt="">
+        <div class="cbp-item"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2018/01/dan-gold-220226.jpg" alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -53,7 +54,7 @@
                 </div>
             </div>
         </div>
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-7.jpg" ?> alt="">
+        <div class="cbp-item"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2018/01/5388053637_3d822c8e47_o.jpg" alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -63,7 +64,7 @@
                 </div>
             </div>
         </div>
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-6.jpg" ?> alt="">
+        <div class="cbp-item"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2018/01/pexels-photo-271795.jpg" alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">
@@ -73,7 +74,7 @@
                 </div>
             </div>
         </div>
-        <div class="cbp-item"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/1/img-8.jpg" ?> alt="">
+        <div class="cbp-item"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2017/09/3.jpg" alt="">
             <div class="hover-port">
                 <div class="hover-in">
                     <div class="position-center-center full-width">

@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>VINARETOUCHER</title>
+  <title>VINA RETOUCHER</title>
   <meta name="keywords" content="HTML5,CSS3,HTML,Template,Multi-Purpose,M_Adnan,Corporate Theme,Kora Portfolio HTML5,Kora - Portfolio HTML5 Template for Agency & Freelancers">
   <meta name="description" content="Kora - Portfolio HTML5 Template for Agency & Freelancers">
   <meta name="author" content="M_Adnan">

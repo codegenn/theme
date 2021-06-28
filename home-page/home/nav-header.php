@@ -1,6 +1,6 @@
 <header class="main-header header-fix">
     <div class="container">
-        <div class="logo"> <a href="index.html"> <img src=<?php echo get_template_directory_uri() . "/assets/images/logo.png" ?> alt="Sprint Logo"></a> </div>
+        <div class="logo"> <a href="index.html"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2019/08/logo-22.png" alt="Sprint Logo"></a> </div>
         <nav>
             <?php
                 if(has_nav_menu('primary-menu')) {

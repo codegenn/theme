@@ -8,13 +8,30 @@
         </div>
 
         <!-- Clients Logos -->
-        <ul class="clients-col-6 animate fadeInUp" data-wow-delay="0.4s">
-            <li> <a href="#."><img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/clients/img-1.jpg" ?> alt=""></a> </li>
-            <li> <a href="#."><img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/clients/img-2.jpg" ?> alt=""></a> </li>
-            <li> <a href="#."><img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/clients/img-3.jpg" ?> alt=""></a> </li>
-            <li> <a href="#."><img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/clients/img-4.jpg" ?> alt=""></a> </li>
-            <li> <a href="#."><img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/clients/img-5.jpg" ?> alt=""></a> </li>
-            <li> <a href="#."><img class="img-responsive" src=<?php echo get_template_directory_uri() . "/assets/images/clients/img-6.jpg" ?> alt=""></a> </li>
-        </ul>
+        <?php service_detail_item("/data-services/service_detail_1.json") ?>
     </div>
 </section>
+
+<?php
+    function service_detail_item($url_file) {
+        $url = get_template_directory_uri() . $url_file;
+        $string = file_get_contents($url);
+        if ($string === false) {
+            echo '<div class="my_class"> fasle 1</div>';
+        }
+        $json_a = json_decode($string, true);
+        if ($json_a === null) {
+            echo '<div class="my_class"> fasle 2</div>';
+        }
+    
+        $string_ul = '<ul class="clients-col-6 animate fadeInUp" data-wow-delay="0.4s">';
+        $string_li = '';
+    
+    
+        foreach ($json_a as $item) {
+            $string_li .= '<li> <a href="#."><img class="img-responsive" src='. $item["image"] .' alt=""></a> </li>';
+        };
+    
+        echo $string_ul.$string_li.'</ul>';
+    }
+?>
