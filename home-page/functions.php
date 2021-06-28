@@ -7,7 +7,7 @@ function b2w_them_style()
     wp_enqueue_style('boostrap', $theme_url . '/assets/css/bootstrap.min.css');
     wp_enqueue_style('fontawesome', $theme_url . '/assets/css/font-awesome.min.css');
     wp_enqueue_style('main', $theme_url . '/assets/css/main.css');
-    wp_enqueue_style('styles', $theme_url . '/assets/css/style.css');
+    wp_enqueue_style('styles', $theme_url . '/style.css');
     wp_enqueue_style('responsive', $theme_url . '/assets/css/responsive.css');
     wp_enqueue_style('animte', $theme_url . '/assets/css/animate.css');
     wp_enqueue_style('cubeportfolio', $theme_url . '/assets/css/cubeportfolio.css');
