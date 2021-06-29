@@ -27,8 +27,8 @@
         $string_ul = '<ul class="clients-col-6 animate fadeInUp" data-wow-delay="0.4s">';
         $string_li = '';
     
-    
-        foreach ($json_a as $item) {
+        $temp = 0;
+        foreach ($json_a as $item) if($temp ++ < 6) {
             $string_li .= '<li> <a href="#."><img class="img-responsive" src='. $item["image"] .' alt=""></a> </li>';
         };
     

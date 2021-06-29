@@ -48,7 +48,7 @@ function service_item()
     }
     foreach ($json_a as $item) {
         echo '
-            <a class="cbp-item photo pack" target="_blank" href=' . $item["url"] . '>
+            <a class="cbp-item photo pack" href=' . $item["url"] . '>
                 <img src=' . $item['image'] . ' alt="Image ' . $item['title'] . '">
                 <div class="item-description">
                     <div class="d-flex flex-column">
