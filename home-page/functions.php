@@ -48,15 +48,13 @@ function service_item()
     }
     foreach ($json_a as $item) {
         echo '
-            <a href=' . $item["url"] . '>
-                <div class="cbp-item photo pack" target="_blank">
-                    <img src=' . $item['image'] . ' alt="Image ' . $item['title'] . '">
-                    <div class="item-description">
-                        <div class="d-flex flex-column">
-                            <p><strong>' . $item['title']       . '</strong></p>
-                            <p>'         . $item['description'] . '</p>
-                            <p><strong>' . $item['price']       . '</strong></p>
-                        </div>
+            <a class="cbp-item photo pack" target="_blank" href=' . $item["url"] . '>
+                <img src=' . $item['image'] . ' alt="Image ' . $item['title'] . '">
+                <div class="item-description">
+                    <div class="d-flex flex-column">
+                        <p><strong>' . $item['title']       . '</strong></p>
+                        <p>'         . $item['description'] . '</p>
+                        <p><strong>' . $item['price']       . '</strong></p>
                     </div>
                 </div>
             </a>

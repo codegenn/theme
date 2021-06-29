@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php get_header(); ?>
-<?php include get_template_directory() . '/data-services/service-detail-3/body.php'; ?>
+<?php include get_template_directory() . '/data-services/service-detail-2/body.php'; ?>
 <?php get_footer(); ?>
 
 </html>
