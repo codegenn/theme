@@ -11,7 +11,8 @@
         <p>Ha Noi, Viet Nam</p>
         <a href="#." class="btn">Locate on map</a>
       </div>
-      <div class="col-sm-4 margin-top-30 text-center animate fadeInUp" data-wow-delay="0.4s"> <img src="https://www.vinaretoucher.com/wp-content/uploads/2019/08/logo-22.png" alt=""> </div>
+      <div class="col-sm-4 margin-top-30 text-center animate fadeInUp" data-wow-delay="0.4s"> 
+        <img src="https://www.vinaretoucher.com/wp-content/uploads/2019/08/logo-22.png" alt=""> </div>
       <div class="col-sm-4 text-right animate fadeInRight" data-wow-delay="0.4s">
         <h6>Contact Info</h6>
         <p>
