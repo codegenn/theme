@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <title>jquery - Befor After Slider Demo</title>
+    <style>
+        #slider {
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>jquery - Befor After Slider Demo</h1>
+    <div id="slider">
+    </div>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+    <!-- <script src="node_modules/jquery/dist/jquery.js"></script> -->
+    <script src="jquery-before-after-slider.min.js"></script>
+
+    <script>
+        var config = {
+            "width": "700px",
+            "height": "600px",
+            "start": "25%",
+            "firstImage": "images/IMG_6474_1.jpg",
+            "secondImage": "images/IMG_6474_2.jpg"
+        }
+
+        $(document).ready(function() {
+            $("#slider").hanBeforeAfterSlider(config);
+        });
+    </script>
+</body>
+
+</html>
