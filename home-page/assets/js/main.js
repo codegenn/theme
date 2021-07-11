@@ -313,7 +313,7 @@ function proceed() {
 
 $(document).ready(function () {
   $.getJSON(
-    "http://localhost/wp-content/themes/theme/home-page/assets/js/service_detail_1.json",
+    "https://www.vinaretoucher.com/wp-content/themes/home-page/assets/js/service_detail_1.json",
     function (data) {
       data.data.forEach((item, index) => {
         var config = {

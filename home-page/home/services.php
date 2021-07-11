@@ -4,7 +4,7 @@
             <div class="col-md-6 no-padding animate fadeInLeft" data-wow-delay="0.4s">
                 <div class="ser-part-2">
                     <div class="tittle-block margin-bottom-40 about-us">
-                        <h3 class="margin-bottom-20 margin-top-0">SINGLE + MULTIPLE EXPOSURE - BLENDING</h3>
+                        <h3 class="margin-bottom-20 margin-top-0">IMAGE ENCHANCEMENT</h3>
                         <p>- Brightness and Contrast Adjusments</p>
                         <p>- Naturally adjusting the lighting</p>
                         <p>- Color Enchancement</p>
@@ -27,7 +27,7 @@
             <div class="col-md-6 no-padding animate fadeInRight" data-wow-delay="0.4s">
                 <div class="ser-part-2">
                     <div class="tittle-block margin-bottom-40 about-us">
-                        <h3 class="margin-bottom-20 margin-top-0">VIDEO</h3>
+                        <h3 class="margin-bottom-20 margin-top-0">VIRUAL STAGING</h3>
                         <p>– Turn your photos into slideshow with moving actions (fire, sky in exterior & interior images, TV screen…)</p>
                         <p>– Make professional photos under…</p>
                         <a href="#.">

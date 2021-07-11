@@ -8,11 +8,11 @@
     <div class="row">
       <div class="col-sm-4 animate fadeInLeft" data-wow-delay="0.4s">
         <h6>Vina Retoucher</h6>
-        <p>Ha Noi, Viet Nam</p>
+        <p>No.2 Nguyen Hoang, My Dinh 2,<br />Nam Tu Liem, Ha Noi</p>
         <a href="#." class="btn">Locate on map</a>
       </div>
       <div class="col-sm-4 margin-top-30 text-center animate fadeInUp" data-wow-delay="0.4s"> 
-        <img src="https://www.vinaretoucher.com/wp-content/uploads/2019/08/logo-22.png" alt=""> </div>
+        <img src="https://www.vinaretoucher.com/wp-content/uploads/2021/07/Asset-1@2x.png" alt="" style="width: 200px;"> </div>
       <div class="col-sm-4 text-right animate fadeInRight" data-wow-delay="0.4s">
         <h6>Contact Info</h6>
         <p>

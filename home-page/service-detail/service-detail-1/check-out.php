@@ -17,17 +17,9 @@
 function service_detail_item()
 {
     $url = get_template_directory_uri() . "/assets/js/service_detail_1.json";
-    $string = file_get_contents($url);
-    echo $string;
-    if ($string["data"] === false) {
-        echo '<div class="my_class"> fasle 1</div>';
-    }
-    $json_a = json_decode($string["data"], true);
-    if ($json_a === null) {
-        echo '<div class="my_class"> fasle 2</div>';
-    }
-    // echo $json_a;
-    foreach ($json_a as $key => $item) {
+    $string = json_decode(file_get_contents($url));
+    $data_arr = $string->data;
+    foreach ($data_arr as $key => $item) {
         echo '
             <li data-transition="fade" data-slotamount="5" data-masterspeed="700">
                 <div id="slider' . $key . '"></div>
