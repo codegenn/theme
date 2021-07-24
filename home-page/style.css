@@ -1167,6 +1167,7 @@ header nav .ownmenu ul.dropdown .indicator {
 ========================================================*/
 .portfolio .col-4 .cbp-item {
   width: 25% !important;
+  height: 220px;
 }
 .portfolio .col-3 .cbp-item {
   width: 33.3333% !important;
