@@ -6,7 +6,7 @@
             <?php include get_template_directory() . '/service/portfolio.php'; ?>
             <?php include get_template_directory() . '/service/achievements.php'; ?>
             <?php include get_template_directory() . '/service/testimonials.php'; ?>
-            <?php include get_template_directory() . '/service/clients.php'; ?>
+            <?php include get_template_directory() . '/home/clients.php'; ?>
         </div>
     </div>
 </body>

@@ -18,7 +18,7 @@
                                 Ha Noi, Viet Nam<br>
                              </li>
                             <li class="col-md-8"> 
-                                P: +84-973-402-665<br>
+                                P: +84 766066345<br>
                                 E: info@vinaretoucher.com<br>
                             </li>
                         </ul>

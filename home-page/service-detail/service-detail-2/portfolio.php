@@ -2,7 +2,7 @@
 <section class="portfolio padding-top-50 padding-bottom-50 animate fadeInUp" data-wow-delay="0.4s">
     <div class="container">
         <!-- Tittle -->
-        <h2 class="simple-tittle margin-bottom-50">ARTWORK</h2>
+        <h2 class="simple-tittle margin-bottom-50">Gallery</h2>
     </div>
 
     <!-- PORTOFLIO ITEMS -->

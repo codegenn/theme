@@ -16,7 +16,7 @@
       <div class="col-sm-4 text-right animate fadeInRight" data-wow-delay="0.4s">
         <h6>Contact Info</h6>
         <p>
-          P: +84-973-402-665<br>
+          P: +84 766066345<br>
           E: info@vinaretoucher.com
         </p>
         <a href="#." class="btn">Write to Us</a>

@@ -1,8 +1,8 @@
 [
   {
     "image": "https://www.vinaretoucher.com/wp-content/uploads/2019/08/VIRTUAL-STAGING-300x200.jpeg",
-    "title": "Real Estate photos",
-    "description": "Perfect for real estate photo editing so you can present your listing with top-notch, retouched professional-looking photos.",
+    "title": "REAL ESTATE PHOTOS",
+    "description": "Perfect for real estate photo editing so you can present your listing with top-notch, retouched...",
     "price": "US$1.60",
     "url": "single-exposure-blending"
   },
@@ -16,7 +16,7 @@
   {
     "image": "https://www.vinaretoucher.com/wp-content/uploads/2019/08/VIRTUAL-DUSK-300x200.jpeg",
     "title": "DAY TO DUSK",
-    "description": "Our photo retouching service will take your exterior property photo from drab to fab by replacing your sky with a beautiful dusk setting.",
+    "description": "Our photo retouching service will take your exterior property photo from drab to fab by replacing your sky with a ...",
     "price": "US$4.00",
     "url": "multiple-exposure-blending"
   },
@@ -36,9 +36,30 @@
   },
   {
     "image": "https://www.vinaretoucher.com/wp-content/uploads/2019/08/VIDEO-PANORAMIC-STIT-300x200.jpeg",
-    "title": "PORTRAIT RETOUCHING",
+    "title": "Video",
     "description": "Enhance your headshots for use on business cards, websites, display boards and social media profiles.",
     "price": "US$4.00",
     "url": "video-editting"
+  },
+  {
+    "image": "https://www.vinaretoucher.com/wp-content/uploads/2019/08/DECLUTTER-300x200.jpeg",
+    "title": "Retouch",
+    "description": "Clearly showcase your listing to potential buyers with an online floorplan available in a range of 2D and 3D options.",
+    "price": "US$5.00",
+    "url": "retouch"
+  },
+  {
+    "image": "https://www.vinaretoucher.com/wp-content/uploads/2019/08/PHOTO-EDITING-300x200.jpeg",
+    "title": "360° IMAGE",
+    "description": "Bring plans to life with our render service available for a range of plans and designs.",
+    "price": "US$5.00",
+    "url": "360-image"
+  },
+  {
+    "image": "https://www.vinaretoucher.com/wp-content/uploads/2019/08/VIDEO-PANORAMIC-STIT-300x200.jpeg",
+    "title": "Headshots",
+    "description": "Enhance your headshots for use on business cards, websites, display boards and social media profiles.",
+    "price": "US$5.00",
+    "url": "headshot"
   }
 ]
