@@ -7,19 +7,37 @@
         <div class="tp-banner">
             <ul>
                 <!-- Slider 1 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/work-img-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
-
                 <!-- Slider 2 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/work-img-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/2.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
-
                 <!-- Slider 3 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/work-img-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/3.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
-
                 <!-- Slider 4 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/portfolio/work-img-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/4.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                </li>
+                <!-- Slider 4 -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/5.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                </li>
+                <!-- Slider 4 -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/6.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                </li>
+                <!-- Slider 4 -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/7.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                </li>
+                <!-- Slider 4 -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/8.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                </li>
+                <!-- Slider 4 -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/9.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                </li>
+                <!-- Slider 4 -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/710.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                </li>
+                <!-- Slider 4 -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_2/11.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
             </ul>
         </div>

@@ -662,3 +662,50 @@ require get_parent_theme_file_path( '/inc/customizer.php' );
  * SVG icons functions and filters.
  */
 require get_parent_theme_file_path( '/inc/icon-functions.php' );
+
+
+
+
+server {
+	listen       80 default_server;
+	server_name  sr1.dony2.advancedopen.com;
+	root         /var/www/html/butlertire-com/public;
+	passenger_enabled on;
+
+}
+
+
+Command: /usr/local/rvm/gems/ruby-2.1.5/wrappers/ruby
+Version: ruby 2.1.5p273 (2014-11-13 revision 48405) [x86_64-linux]
+To use in Apache: PassengerRuby /usr/local/rvm/gems/ruby-2.1.5/wrappers/ruby
+To use in Nginx : passenger_ruby /usr/local/rvm/gems/ruby-2.1.5/wrappers/ruby
+To use with Standalone: /usr/local/rvm/gems/ruby-2.1.5/wrappers/ruby /usr/local/rvm/gems/ruby-2.1.5/gems/passenger-6.0.9/bin/passenger start
+
+http {
+	server {
+		listen 80;
+		server_name sr1.dony2.advancedopen.com;
+	
+		# Tell Nginx and Passenger where your app's 'public' directory is
+		root /var/www/html/butlertire-com/public;
+	
+		# Turn on Passenger
+		passenger_enabled on;
+		passenger_ruby /usr/local/rvm/gems/ruby-2.1.5/wrappers/ruby;
+	}
+}
+
+<IfModule mod_passenger.c>
+   PassengerRoot /usr/share/ruby/vendor_ruby/phusion_passenger/locations.ini
+   PassengerRuby /usr/bin/ruby
+   PassengerInstanceRegistryDir /var/run/passenger-instreg
+</IfModule>
+
+
+passenger_root /usr/share/ruby/vendor_ruby/phusion_passenger/locations.ini;
+passenger_ruby /usr/local/rvm/rubies/ruby-2.4.2/bin/ruby;
+passenger_instance_registry_dir /var/run/passenger-instreg;
+
+
+passenger_root /usr/local/rvm/gems/ruby-2.1.5/gems/passenger-6.0.9;
+passenger_ruby /usr/local/rvm/gems/ruby-2.1.5/wrappers/ruby;
