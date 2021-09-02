@@ -1,4 +1,5 @@
 <!--======= CHECK OUT SLIDER =========-->
+<!-- rendering -->
 <div class="d-flex j-center margin-top-50 margin-b-20">
     <h3><strong><span class="check-color">CHECK</span> OUT OUR WORK?</strong></h3>
 </div>

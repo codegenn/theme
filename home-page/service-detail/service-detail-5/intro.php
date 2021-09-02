@@ -2,7 +2,7 @@
 <section class="intro padding-top-100">
     <div class="container">
         <div class="choose-us intro-in animate fadeInUp" data-wow-delay="0.4s">
-            <h3 class="padding-top-60 padding-bottom-60"><strong>SINGLE + MULTIPLE EXPOSURE BLENDING?</strong></h3>
+            <h3 class="padding-top-60 padding-bottom-60"><strong>RENDERING</strong></h3>
             <div class="row">
                 <!-- Check item -->
                 <div class="col-md-6 animate fadeInUp" data-wow-delay="0.4s">
@@ -13,10 +13,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>BLACK LIVING ROOMS IDEAS</strong></h4>
+                            <h4><strong>ATTRACT NEW CUSTOMERS</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Present images exactly as they would look in real life.</span>
                         </div>
                     </div>
                 </div>
@@ -30,10 +29,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>CEILINGS AND WOOD FLOORS</strong></h4>
+                            <h4><strong>SAVE TIME & MONEY</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Architectural visualization helps identify potential problems early in the project.</span>
                         </div>
                     </div>
                 </div>
@@ -47,10 +45,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>ARTISTIC APARTMENTS</strong></h4>
+                            <h4><strong>ABILITY TO SELL OFF PLAN</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Buyers are more likely to purchase off plan if they can visualise a photo realistic representation of their new property.</span>
                         </div>
                     </div>
                 </div>
@@ -64,10 +61,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>ARTISTIC APARTMENTS</strong></h4>
+                            <h4><strong>BUYERS ARE VISUAL</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Buyers spend 60% of their time looking at images over copy.</span>
                         </div>
                     </div>
                 </div>

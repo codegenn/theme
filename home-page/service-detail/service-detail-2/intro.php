@@ -2,7 +2,7 @@
 <section class="intro padding-top-100">
     <div class="container">
         <div class="choose-us intro-in animate fadeInUp" data-wow-delay="0.4s">
-            <h3 class="padding-top-60 padding-bottom-60"><strong>SINGLE + MULTIPLE EXPOSURE BLENDING?</strong></h3>
+            <h3 class="padding-top-60 padding-bottom-60"><strong>DAY TO DUSK</strong></h3>
             <div class="row">
                 <!-- Check item -->
                 <div class="col-md-6 animate fadeInUp" data-wow-delay="0.4s">
@@ -13,10 +13,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>BLACK LIVING ROOMS IDEAS</strong></h4>
+                            <h4><strong>GET A HERO SHOT</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Let our team take your photo of a home’s exterior from drab to fab with the click of a few buttons and let your listing stand out with a beautiful dusk hero shot.</span>
                         </div>
                     </div>
                 </div>
@@ -30,10 +29,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>CEILINGS AND WOOD FLOORS</strong></h4>
+                            <h4><strong>SAVE THE HASSLE OF CAPTURING THE PERFECT SUNSET</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Booking a photographer to capture the exact moment the setting sun looks stunning can be difficult, especially if that day’s sunset is unremarkable. Take the hassle out of capturing the photo and let us edit it for you.</span>
                         </div>
                     </div>
                 </div>
@@ -47,10 +45,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>ARTISTIC APARTMENTS</strong></h4>
+                            <h4><strong>ATTRACT BUYERS</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Homes presented at dusk are beautiful, romantic and eye-catching. Attract more buyers with a stunning photo of your listing at dusk and show just how beautiful the home can be.</span>
                         </div>
                     </div>
                 </div>
@@ -64,10 +61,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>ARTISTIC APARTMENTS</strong></h4>
+                            <h4><strong>STAND OUT FROM THE COMPETITION</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Turning a photo from day to dusk will not only enhance your listing but will help it stand out from the crowd. An eye-catching sunset will draw everyone’s attention.</span>
                         </div>
                     </div>
                 </div>

@@ -1,4 +1,5 @@
 <!--======= CHECK OUT SLIDER =========-->
+<!-- virtual-stage -->
 <div class="d-flex j-center margin-top-50 margin-b-20">
     <h3><strong><span class="check-color">CHECK</span> OUT OUR WORK?</strong></h3>
 </div>
@@ -19,14 +20,14 @@
                 </li>
 
                 <!-- Slider 4 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/2-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/2-2.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
 
                 <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/3.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
 
                 <!-- Slider 2 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/3-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/3-3.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
 
                 <!-- Slider 3 -->
@@ -34,14 +35,14 @@
                 </li>
 
                 <!-- Slider 4 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/4-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/4-4.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
 
                 <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/5.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
 
                 <!-- Slider 2 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/5-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/5-5.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
 
                 <!-- Slider 3 -->
@@ -49,7 +50,7 @@
                 </li>
 
                 <!-- Slider 4 -->
-                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/6-1.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="700"> <img src=<?php echo get_template_directory_uri() . "/assets/images/service_4/6-6.jpg" ?> alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                 </li>
             </ul>
         </div>
