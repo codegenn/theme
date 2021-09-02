@@ -3,14 +3,14 @@
     "",
     "\\home-page",
     "\\home-page\\assets",
+    "\\home-page\\assets\\css",
     "\\home-page\\assets\\images",
-    "\\home-page\\assets\\images\\portfolio",
-    "\\home-page\\assets\\images\\portfolio\\1",
+    "\\home-page\\assets\\images\\service_1",
     "\\home-page\\data-services",
-    "\\home-page\\data-services\\service-detail-2",
     "\\home-page\\service-detail",
-    "\\home-page\\service-detail\\service-detail-3"
+    "\\home-page\\service-detail\\service-detail-3",
+    "\\main-file"
   ],
-  "SelectedNode": "\\home-page\\assets\\images\\portfolio\\1\\img-1.jpg",
+  "SelectedNode": "\\home-page\\assets\\images\\service_1\\11.jpg",
   "PreviewInSolutionExplorer": false
 }

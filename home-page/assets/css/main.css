@@ -8119,3 +8119,20 @@ transform:rotate(360deg)
 .padding-bottom-100 {
 	padding-bottom: 100px !important;
 }
+@media (min-width: 600px) {
+	#main-wrapper .tp-banner-container {
+		height: 571px !important;
+	}
+	section.container {
+		height: 571px;
+	}
+}
+@media (max-width: 599px) {
+	#main-wrapper .tp-banner-container {
+		height: 350px !important;
+	}
+
+	section.container {
+		height: 350px;
+	}
+}
