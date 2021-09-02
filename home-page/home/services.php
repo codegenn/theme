@@ -9,7 +9,7 @@
                         <p>- Naturally adjusting the lighting</p>
                         <p>- Color Enchancement</p>
                         <p>- Color Enchancement to make it more ...</p>
-                        <a href="#.">
+                        <a href="/single-exposure-blending">
                             <p class="check-color">[Read more ...]</p>
                         </a>
                     </div>
@@ -30,7 +30,7 @@
                         <h3 class="margin-bottom-20 margin-top-0">VIRUAL STAGING</h3>
                         <p>– Turn your photos into slideshow with moving actions (fire, sky in exterior & interior images, TV screen…)</p>
                         <p>– Make professional photos under…</p>
-                        <a href="#.">
+                        <a href="/virtual-stage">
                             <p class="check-color">[Read more ...]</p>
                         </a>
                     </div>
@@ -46,7 +46,7 @@
                         <p>– Convert your hand-drawn sketches into finished floor plan files</p>
                         <p>– 3D Rendering</p>
                         <p>- Help customers see the location, location…</p>
-                        <a href="#.">
+                        <a href="/floor-plan">
                             <p class="check-color">[Read more ...]</p>
                         </a>
                     </div>

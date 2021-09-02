@@ -2,7 +2,7 @@
 <section class="intro padding-top-100">
     <div class="container">
         <div class="choose-us intro-in animate fadeInUp" data-wow-delay="0.4s">
-            <h3 class="padding-top-60 padding-bottom-60"><strong>SINGLE + MULTIPLE EXPOSURE BLENDING?</strong></h3>
+            <h3 class="padding-top-60 padding-bottom-60"><strong>HEADSHOT</strong></h3>
             <div class="row">
                 <!-- Check item -->
                 <div class="col-md-6 animate fadeInUp" data-wow-delay="0.4s">

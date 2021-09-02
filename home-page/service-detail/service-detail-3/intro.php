@@ -2,7 +2,7 @@
 <section class="intro padding-top-100">
     <div class="container">
         <div class="choose-us intro-in animate fadeInUp" data-wow-delay="0.4s">
-            <h3 class="padding-top-60 padding-bottom-60"><strong>SINGLE + MULTIPLE EXPOSURE BLENDING?</strong></h3>
+            <h3 class="padding-top-60 padding-bottom-60"><strong>FLOOR PLAN</strong></h3>
             <div class="row">
                 <!-- Check item -->
                 <div class="col-md-6 animate fadeInUp" data-wow-delay="0.4s">
@@ -13,10 +13,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>BLACK LIVING ROOMS IDEAS</strong></h4>
+                            <h4><strong>INCREASE BUYER INTEREST</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>1 in 5 buyers would ignore a property listing completely if it didn’t include a floor plan</span>
                         </div>
                     </div>
                 </div>
@@ -30,10 +29,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>CEILINGS AND WOOD FLOORS</strong></h4>
+                            <h4><strong>INCREASE TIME SPENT ON YOUR LISTING</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>93% of buyers say they are more likely to spend time looking at a property with a floor plan.</span>
                         </div>
                     </div>
                 </div>
@@ -47,10 +45,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>ARTISTIC APARTMENTS</strong></h4>
+                            <h4><strong>ALLOW BUYER VISUALISATION</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Buyers want to see the property layout, to visualize the flow of the rooms, how they fit in relation to others rooms and picture their furniture inside the home.</span>
                         </div>
                     </div>
                 </div>
@@ -64,15 +61,13 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>ARTISTIC APARTMENTS</strong></h4>
+                            <h4><strong>GENERATE MORE LEADS</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Floor plans have shown to generate 30% more interest than properties without one.</span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 </section>
