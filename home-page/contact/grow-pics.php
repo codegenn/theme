@@ -9,7 +9,7 @@
                     </svg>
                     <div class="d-flex flex-column margin-l-20">
                         <h3 class="no-margin">05</h3>
-                        <h5 class="no-margin">years of developing</h5>
+                        <h5 class="no-margin">years experience</h5>
                     </div>
                 </div>
                 <div class="d-flex margin-r-40">
@@ -27,7 +27,7 @@
                     </svg>
                     <div class="d-flex flex-column margin-l-20">
                         <h3 class="no-margin">99%</h3>
-                        <h5 class="no-margin">years of developing</h5>
+                        <h5 class="no-margin">years of satisfied</h5>
                     </div>
                 </div>
                 <div class="d-flex">

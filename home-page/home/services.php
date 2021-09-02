@@ -22,7 +22,7 @@
 
         <div class="row">
             <div class="col-md-6 no-padding animate fadeInLeft" data-wow-delay="0.4s">
-                <img class="img-responsive" src="https://www.vinaretoucher.com/wp-content/uploads/2019/10/Render.jpg" alt="">
+                <img class="img-responsive" src="https://www.vinaretoucher.com/wp-content/uploads/2021/09/Virual-staging.jpg" alt="">
             </div>
             <div class="col-md-6 no-padding animate fadeInRight" data-wow-delay="0.4s">
                 <div class="ser-part-2">

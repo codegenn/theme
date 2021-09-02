@@ -29,7 +29,7 @@
     
         $temp = 0;
         foreach ($json_a as $item) if($temp ++ < 6) {
-            $string_li .= '<li> <a href="#."><img class="img-responsive" src='. $item["image"] .' alt=""></a> </li>';
+            $string_li .= '<li> <a style="opacity: 1" href="#."><img class="img-responsive" src='. $item["image"] .' alt=""></a> </li>';
         };
     
         echo $string_ul.$string_li.'</ul>';
