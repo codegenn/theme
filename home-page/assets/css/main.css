@@ -8124,7 +8124,7 @@ transform:rotate(360deg)
 		height: 571px !important;
 	}
 	section.container {
-		height: 571px;
+		height: 571px !important;
 	}
 }
 @media (max-width: 599px) {
@@ -8133,6 +8133,6 @@ transform:rotate(360deg)
 	}
 
 	section.container {
-		height: 350px;
+		height: 350px !important;
 	}
 }
