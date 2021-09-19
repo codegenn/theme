@@ -34,7 +34,7 @@
                     </div>
                     <p>
                         Clearly showcase your listing to 
-                        potential buyers with an online floorplan available in a range of 2D and 3D options.
+                        potential buyers with an online floor plan available in a range of 2D and 3D options.
                     </p>
                 </div>
             </div>

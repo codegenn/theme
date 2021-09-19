@@ -8,7 +8,7 @@
         <li><a href="service" class="text-uppercase">SERVICE</a>
           <ul class="dropdown">
             <li><a href="single-exposure-blending" class="text-uppercase">Real estate photos</a></li>
-            <li><a href="multiple-exposure-blending" class="text-uppercase">DAY TO DUSK</a></li>
+            <li><a href="multiple-exposure-blending" class="text-uppercase">Day to dusk</a></li>
             <li><a href="virtual-stage" class="text-uppercase">Virua stagings</a></li>
             <li><a href="floor-plan" class="text-uppercase">Floor Plan</a></li>
             <li><a href="rendering" class="text-uppercase">rendering</a></li>
