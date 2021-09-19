@@ -13,10 +13,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>BLACK LIVING ROOMS IDEAS</strong></h4>
+                            <h4><strong>SELL PROPERTIES 50% FASTER</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Professional quality photos are statistically proven to sell listings 50% faster.</span>
                         </div>
                     </div>
                 </div>
@@ -30,10 +29,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>CEILINGS AND WOOD FLOORS</strong></h4>
+                            <h4><strong>INCREASE PROSPECTS AND BUYER INTEREST</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Professional quality images have been shown to generate up to 118% more online views.</span>
                         </div>
                     </div>
                 </div>
@@ -47,10 +45,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>ARTISTIC APARTMENTS</strong></h4>
+                            <h4><strong>INCREASE SALE PRICE</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Including professional quality photos has been proven to drastically increase the sale price of a property.</span>
                         </div>
                     </div>
                 </div>
@@ -64,10 +61,9 @@
                             </svg>
                         </div>
                         <div class="d-flex flex-column text-left">
-                            <h4><strong>ARTISTIC APARTMENTS</strong></h4>
+                            <h4><strong>HOME BUYERS WANT TO SEE BEAUTIFUL PHOTOS</strong></h4>
                             <p class="bd width-40 margin-t-10 margin-b-20"></p>
-                            <span>Sed us perpiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                laudantium totam rem</span>
+                            <span>Home buyers spend 60% of their time viewing photos, while only 20% on the property description and 83% of buyers deem photos to be important listing information.</span>
                         </div>
                     </div>
                 </div>
